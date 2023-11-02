@@ -4,10 +4,6 @@
 •Get all the titles of books in the file (without using //)
 
 	/bib/book/title
-<title>TCP/IP Illustrated</title>  
-<title>Advanced Programming in the Unix environment</title>  
-<title>Data on the Web</title>  
-<title>Economics of ... for Digital TV</title>
 • Get all the year attributes mentioned in the file
 
 	/bib/book/@year
