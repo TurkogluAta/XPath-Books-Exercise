@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<bib>
+    <book year="1994">
+        <title>TCP/IP Illustrated</title>
+        <author>
+            <last>Stevens</last>
+            <first>W.</first>
+        </author>
+        <publisher>Addison-Wesley</publisher>
+        <price>45.00</price>
+    </book>
+    <book year="1992">
+        <title>Advanced Programming in the Unix environment</title>
+        <author>
+            <last>Stevens</last>
+            <first>W.</first>
+        </author>
+        <publisher>Addison-Wesley</publisher>
+        <price>65.95</price>
+    </book>
+    <book year="2000">
+        <title>Data on the Web</title>
+        <author>
+            <last>Abiteboul</last>
+            <first>Serge</first>
+        </author>
+        <author>
+            <last>Buneman</last>
+            <first>Peter</first>
+        </author>
+        <author>
+            <last>Suciu</last>
+            <first>Dan</first>
+        </author>
+        <publisher>Morgan Kaufmann Publishers</publisher>
+        <price>39.95</price>
+    </book>
+    <book year="1999">
+        <title>Economics of ... for Digital TV</title>
+        <editor>
+            <last>Gerbarg</last>
+            <first>Darcy</first>
+            <affiliation>CITI</affiliation>
+        </editor>
+        <publisher>Kluwer Academic Publishers</publisher>
+        <price>129.95</price>
+    </book>
+    <foo:book xmlns:foo="http://foo.example.com" year="2001">
+        <title>Introduction to Programming</title>
+        <by>Mary Sutton</by>
+        <publisher>O'Reilly Media</publisher>
+        <price>25.00</price>
+    </foo:book>
+    <foo:book xmlns:foo="http://foo.example.com">
+        <title>Web Services</title>
+        <by>Martin Stone</by>
+        <by>Mary Sutton</by>
+        <publisher>Apress</publisher>
+        <price>99.00</price>
+    </foo:book>
+    <article year="2001">
+        <title>Organisation Theory</title>
+        <author>
+            <last>Green</last>
+            <first>Daniel</first>
+        </author>
+        <publisher>Kluwer Academic Publishers</publisher>
+        <price>80.00</price>
+    </article>
+</bib>
+
